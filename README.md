@@ -1,4 +1,4 @@
-### Hi there 👋
+Mini Warzone Doge Brinsg the excitement of COD to the blockchain
 
 <!--
 **MiniWarzoneDoge/MiniWarzoneDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
