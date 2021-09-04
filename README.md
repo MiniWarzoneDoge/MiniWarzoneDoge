@@ -1,6 +1,6 @@
 Mini Warzone Doge Brinsg the excitement of COD to the blockchain
 
-Contract Address: 0x09d307Dd1f62C558D308321734e0988a7863714e
+Contract Address: 0x811d2293031F6992FC64dB5872B1D893B73518b1
 
 <!--
 **MiniWarzoneDoge/MiniWarzoneDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
