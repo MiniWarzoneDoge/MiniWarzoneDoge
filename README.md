@@ -1,4 +1,4 @@
-Mini Warzone Doge Brinsg the excitement of COD to the blockchain
+Mini Warzone Doge Brings the excitement of COD to the blockchain
 
 Contract Address: 0x811d2293031F6992FC64dB5872B1D893B73518b1
 
